@@ -1,3 +1,5 @@
+Bu proje, kapsamlı bir   Eğitim Kampı sürecinde geliştirilmiştir. 
+
 # 🧩 Proje 5: Dapper ORM ve Northwind Veritabanı (Öğrenme Projesi)
 
 Bu proje, **Microsoft’un Northwind veritabanı** ile **Dapper ORM** kullanarak temel veri işlemlerini gerçekleştirmek amacıyla hazırlanmıştır.  
